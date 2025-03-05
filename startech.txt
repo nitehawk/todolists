@@ -1,1 +1,4 @@
 Chem Reactor:
+* 18 chemically inert casing
+* ptfe pipe casing
+* cupernickel coil
